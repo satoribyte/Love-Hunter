@@ -15,7 +15,7 @@ Before using this tool, make sure you have a valid API Key from Hunter.io. You c
 `pip install requests pyfiglet termcolor`
 
 
-3. Open the `love_hunter.py` file with a text editor and replace `'YOUR_API_KEY'` with your Hunter.io API Key.
+3. Open the `start.py` file with a text editor and replace `'504533b9d8a0130e1811b3d127f3ca8fa0d26299'` with your Hunter.io API Key.
 
 ## Usage
 
