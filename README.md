@@ -81,7 +81,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-Follow me on Instagram: [@denigentarcandana](https://www.instagram.com/denigentarcandana)
+Follow me on Instagram: [@denigentarcandana.id](https://www.instagram.com/denigentarcandana.id)
 
 
 
