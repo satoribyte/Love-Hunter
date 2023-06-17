@@ -8,7 +8,7 @@ Before using this tool, make sure you have a valid API Key from Hunter.io. You c
 
 ## Installation
 
-1. Clone this repository or download the `star.py` file to your computer.
+1. Clone this repository or download the `start.py` file to your computer.
 
 2. Install the required libraries by running the following command:
 
